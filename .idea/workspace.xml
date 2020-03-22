@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ea24a39-81f1-4204-a748-b82b0ee7e53f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.1.0-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.1.1-py2.py3-none-any.whl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordmaker_pkg/PasswordMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/passwordmaker_pkg/PasswordMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/passwordmaker_pkg/PasswordMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/passwordmaker_pkg/PasswordMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.0.1-py2.py3-none-any.whl" beforeDir="false" afterPath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.0.1-py2.py3-none-any.whl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/passwordmaker_pkg_leonardomartelli.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/passwordmaker_pkg_leonardomartelli.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordmaker_pkg_leonardomartelli.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/passwordmaker_pkg_leonardomartelli.egg-info/SOURCES.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +27,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZSdhmXIZ5411Kl22xDg2kWVJbx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -47,6 +52,9 @@
       <updated>1584836551106</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="229" y="484" width="611" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584837133262">

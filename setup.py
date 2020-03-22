@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="passwordmaker-pkg-leonardomartelli",
-    version="1.0.1",
+    version="1.1.1",
     author="Leonardo Martelli Oliveira",
     author_email="lmartellioliveira@gmail.com",
     description="A Password Maker",

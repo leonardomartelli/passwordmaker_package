@@ -1,4 +1,5 @@
 from typing import Type
+
 import PasswordTools
 from enum import Enum
 
@@ -60,3 +61,9 @@ class PasswordMaker:
             return PasswordTools.get_letter()
         else:
             return PasswordTools.get_number()
+
+
+password_maker = PasswordMaker()
+
+
+print(password_maker.create_password())

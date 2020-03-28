@@ -1,8 +1,7 @@
 README.md
 setup.py
-passwordmaker_pkg/PasswordMaker.py
-passwordmaker_pkg/PasswordTools.py
 passwordmaker_pkg/__init__.py
+passwordmaker_pkg/maker.py
 passwordmaker_pkg_leonardomartelli.egg-info/PKG-INFO
 passwordmaker_pkg_leonardomartelli.egg-info/SOURCES.txt
 passwordmaker_pkg_leonardomartelli.egg-info/dependency_links.txt

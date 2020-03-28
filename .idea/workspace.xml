@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ea24a39-81f1-4204-a748-b82b0ee7e53f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.1.0-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.1.1-py2.py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwordmaker_pkg/maker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/lib/passwordmaker_pkg/PasswordMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/passwordmaker_pkg/PasswordMaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.0.1-py2.py3-none-any.whl" beforeDir="false" afterPath="$PROJECT_DIR$/dist/passwordmaker_pkg_leonardomartelli-1.0.1-py2.py3-none-any.whl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordmaker_pkg_leonardomartelli.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/passwordmaker_pkg_leonardomartelli.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordmaker_pkg/PasswordMaker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordmaker_pkg/PasswordTools.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,5 +59,13 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="229" y="484" width="611" height="394" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1584837133262" />
+    <state x="607" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585422401788">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="607" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585422401788" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1585422903441">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1585422903441" />
   </component>
 </project>
